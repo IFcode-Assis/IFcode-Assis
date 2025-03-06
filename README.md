@@ -7,6 +7,16 @@ Criar um espaço colaborativo onde alunos e professores possam interagir, compar
 
 ---
 
+## 🎯 Como Participar  
+
+1. Crie sua conta como **aluno** ou **professor**.  
+2. Explore as funcionalidades do **chatbot** e do **fórum**.  
+3. Compartilhe conhecimento e colabore com a comunidade!  
+
+🔗 **Acesse:** [ifcode.com.br](https://ifcode.com.br)  
+
+---
+
 ## 🌟 Recursos Principais
 
 ### 🤖 Chatbot Inteligente
@@ -21,14 +31,6 @@ Participe do fórum, faça perguntas e responda questões da comunidade. O apren
 
 ### 📂 Repositório de Projetos
 Aqui também é o espaço oficial para armazenar e compartilhar repositórios de projetos desenvolvidos dentro do **IFcode**.
-
----
-
-## 🚀 Como Acessar
-
-1. Crie sua conta como aluno ou professor.
-2. Explore as funcionalidades do chatbot e do fórum.
-3. Compartilhe conhecimento e colabore com a comunidade!
 
 ---
 
