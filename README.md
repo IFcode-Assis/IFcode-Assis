@@ -54,6 +54,3 @@ Ao colaborar, você mantém seus direitos autorais sobre o seu trabalho, mas tam
 ---
 
 ⚡ **IFcode** – Conectando conhecimento, tecnologia e colaboração! 🚀
-
-Se precisar de mais alterações ou melhorias, me avise!
-
