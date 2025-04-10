@@ -1,5 +1,3 @@
-Aqui está o conteúdo completo em Markdown, com a inclusão da descrição detalhada da licença:
-
 # IFcode 🚀  
 
 Bem-vindo ao **IFcode** – a plataforma inovadora de suporte à comunidade acadêmica do **IFPR - Campus Assis Chateaubriand**!  
